@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/joo-pe/joo-pe.github.io.git
