@@ -1,0 +1,11 @@
+joo-pe :
+  username: Park    # user name : martin
+  name: Joohyung         # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: <a href="https://www.youtube.com/channel/UCS63caBU8R3985Klba8zrzg">박주형 기술사 멘토</a>
+  # 회사정보
+  picture: assets/built/images/economy-author-logo.jpg   # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False

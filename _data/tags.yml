@@ -1,0 +1,12 @@
+java :
+  name: java
+  description: False
+  cover: assets/built/images/java.png
+python :
+  name: python
+  description: False
+  cover: assets/built/images/img.png
+ai :
+  name: ai
+  description: False
+  cover: assets/built/images/img.png
