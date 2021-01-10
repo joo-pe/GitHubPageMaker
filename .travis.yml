@@ -7,6 +7,7 @@ rvm:
 install:
   # Install Jekyll and dependencies
   - bundle install
+  - bundle update
 
 before_script:
   - git config --global user.email "joohyung1002@naver.com"
