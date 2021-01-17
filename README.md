@@ -123,6 +123,10 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FO
 > 1. _includes 에 navigation.html 입력
 > 2. _posts/주제별 디렉토리 생성
 
+### 목차 생성
+> 1. _includes 에 develop-table-of-contents.html 같이 목차 생성 파일을 넣는다.
+> develop-table-of-contents.html 에 있는 링크 파일은 _posts 에 있는 파일명하고 맞춰준다.
+
 ### 태그 등록
 
 > 1. tags.yml 에 등록

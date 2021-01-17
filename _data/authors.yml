@@ -5,7 +5,7 @@ joo-pe :
   url:
   bio: <a href="https://www.youtube.com/channel/UCS63caBU8R3985Klba8zrzg">박주형 기술사 멘토</a>
   # 회사정보
-  picture: assets/built/images/img.jpg   # author image
+  picture: assets/built/images/company.jpg   # author image
   facebook:             # facebook ID
   twitter:              # twitter ID
   cover: False

@@ -57,7 +57,7 @@ cover: assets/built/images/laptop-5842509.jpg
 logo:
 logo_dark:
 
-favicon: assets/built/images/favicon-16x16.png
+favicon: assets/built/images/joope_favicon.png
 # favicon으로 사용할 image
 
 production_url: https://joo-pe.github.io

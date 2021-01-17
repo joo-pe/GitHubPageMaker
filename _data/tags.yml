@@ -1,12 +1,16 @@
-java :
-  name: java
+develop :
+  name: develop
   description: False
-  cover: assets/built/images/coffee-5447420.jpg
-python :
-  name: python
+  cover: assets/built/images/develop/develop-1.jpg
+itstory :
+  name: itstory
   description: False
-  cover: assets/built/images/img.png
+  cover: assets/built/images/itstory/itstory-1.jpg
 ai :
   name: ai
   description: False
-  cover: assets/built/images/img.png
+  cover: assets/built/images/ai/ai-1.png
+license :
+  name: license
+  description: False
+  cover: assets/built/images/license/license-1.jpg
