@@ -6,8 +6,8 @@ markdown: kramdown
 # MyData
 owner:
   name:           JooHyung Park
-  avatar:         photo.jpg
-  bio:            "Joo PE"
+  avatar:         joo_photo.jpg
+  bio:            "Joo Professional Engineer"
   email:          joohyung1002@naver.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
@@ -48,10 +48,10 @@ baseurl: /
 title: Joo's Blog
 # 자신의 blog title.
 
-description: Professional Engineer of skill
+description: Professional Engineer
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
-cover: assets/built/images/blog-cover1.png
+cover: assets/built/images/laptop-5842509.jpg
 # blog home에 표시될 blog cover image.
 
 logo:
