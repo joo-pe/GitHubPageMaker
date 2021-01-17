@@ -1,7 +1,7 @@
 java :
   name: java
   description: False
-  cover: assets/built/images/java.png
+  cover: assets/built/images/coffee-5447420.jpg
 python :
   name: python
   description: False
