@@ -131,3 +131,9 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FO
 
 > 1. tags.yml 에 등록
 > 2. posts 안에 각 컨텐츠 헤더에 있는 tag 와 맞춤. 
+
+### gist 사용
+
+github blog continue
+
+{% gist joo-pe/08fbe8aeef0b79bdb8fbd3f090809fb5 %}
