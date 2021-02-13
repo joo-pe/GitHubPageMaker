@@ -24,7 +24,7 @@ Java로 구현되지만 모든 JVM 호환 언어에서 사용할 수 있다.
 
 https://bitcoinj.org/getting-started-java
 
-## 1. bitcoingj 기본구조
+## 1. bitcoinj 기본구조
 
 NetworkParameters : 현재 네트워크 (프로덕션 또는 테스트)를 선택 하는 인스턴스입니다.
 Wallet :  저장할 수 ECKey의 및 기타 데이터를.

@@ -23,7 +23,7 @@ PMP <br>
 SBI저축은행 <br>
 LINE 파이넨셜 <br>
 테라펀딩 <br>
-스타트 CTO<br>
+스타트업 CTO<br>
 
 ### *Active*
 
