@@ -24,6 +24,7 @@ Java로 구현되지만 모든 JVM 호환 언어에서 사용할 수 있다.
 
 https://bitcoinj.org/getting-started-java
 
+
 ## 1. bitcoinj 기본구조
 
 NetworkParameters : 현재 네트워크 (프로덕션 또는 테스트)를 선택 하는 인스턴스입니다.
@@ -32,3 +33,23 @@ PeerGroup : 네트워크 연결을 관리 하는 인스턴스입니다.
 BlockChain : 비트 코인을 작동시키는 공유 글로벌 데이터 구조를 관리 하는 인스턴스.
 BlockStore : 디스크와 같은 어딘가에 블록 체인 데이터 구조를 유지 하는 인스턴스.
 WalletEventListener : 지갑 이벤트를 수신하는 구현.
+
+## 2. wallet 실행시키기
+
+1. JavaFX 를 다운 받는다.
+   intelliJ 내 Edit Configurations에 아래를 추가한다.
+   lib는 자신의 lib로 설정하여 준다.
+
+~~~
+--module-path /Users/jaden/Downloads/javafx-sdk-11.0.2/lib --add-modules=javafx.controls,javafx.fxml
+~~~
+
+
+2. wallettemplate 모듈에서 Main 클래스를 실행시킨다.
+
+![img.png](/assets/built/images/blockchain/blockchain-4.png)
+
+가 실행되는 것을 볼 수 있다.
+기본은 MainNet으로 접속된다.
+
+3. NetworkParameters 을 참고하여 메인넷을 바꾸어준다.

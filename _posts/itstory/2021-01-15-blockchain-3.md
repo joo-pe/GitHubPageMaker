@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/built/images/blockchain/blockchain-3.png
 navigation: True
-title: 블록체인 기술은 죽지 않았다.
+title: 다시한번 블록체인 
 date: 2021-02-12 10:40:00
 tags: [itstory]
 class: post-template
